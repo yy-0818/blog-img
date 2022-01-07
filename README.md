@@ -1,2 +1,2 @@
-# blog-img
+# blog-imgs
 Picture bed
